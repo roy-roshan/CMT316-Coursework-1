@@ -2,7 +2,27 @@ Text Classification Project
 
 This project focuses on text classification, aiming to categorize documents into predefined topics such as tech, business, entertainment, politics, and sport. The classification models were trained and evaluated using different feature representations on an original dataset.
 
-This project has been created on jupyter notebook, therefore should be run in order.
+To run this project on terminal, download the repository and navigate to the directory where the is located and type "jupyter notebook Final.ipynb" and click enter.
+
+Here is basic overview of the project:
+
+Data Preprocessing:
+
+    Load and preprocess the textual data, including tasks like tokenization, stemming, or lemmatization.
+    Split the dataset into training and testing sets.
+
+Feature Extraction:
+
+    Implement various feature extraction methods such as Bag of Words, N-grams, TF-IDF, and combinations of features.
+
+Model Training:
+
+    Train text classification models using machine learning algorithms (e.g., Naive Bayes, Support Vector Machines) or deep learning models (e.g., neural networks).
+
+Evaluation:
+
+    Evaluate the trained models on a test dataset to measure accuracy, precision, recall, and F1 scores.
+
 
 BBC Files Acknowledgements:
 
